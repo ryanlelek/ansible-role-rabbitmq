@@ -1,1 +1,4 @@
 ---
+rabbitmq_vhost:    main
+rabbitmq_username: bunny
+rabbitmq_password: amqp
